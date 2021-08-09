@@ -1,13 +1,13 @@
-## A screenshot of the console output immediately after I have successfully issued a smart contract call.
+## A screenshot of the console output
 ![Screenshot](./screenshot.png)
 
-## The transaction hash from the console output (in text format).
+## Transaction hash from the console output.
 `0x2d28ab5fee2fbbfd9836d5488f6fb89a976aa23d84e9347b736f53d66418f9d5`
 
-## The contract address that I called (in text format).
+## The contract address that I called.
 `0xF426B10035e50F8b2168139BE7CB281d5Fb0AaC5`
 
-## The ABI for contract I made a call on (in text format).
+## The ABI for contract I made a call on.
 ```json
 [
 	{
