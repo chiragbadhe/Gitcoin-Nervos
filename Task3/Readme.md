@@ -1,5 +1,3 @@
-# gitcoin-hackathon-nervos-3
-
 ## A screenshot of the console output immediately after I have successfully issued a smart contract call.
 ![Screenshot](./screenshot.png)
 
