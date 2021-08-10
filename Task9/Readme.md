@@ -1,7 +1,7 @@
 
 ### A screenshot of the console output immediately after running the withdraw command.
 
-<img src='ss.jpeg'/>
+<img src='ss.png'/>
 
 ### The Ethereum address that you've used for your Layer 2 account (in text format).
 
